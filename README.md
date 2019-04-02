@@ -12,9 +12,8 @@ Last version 6.1.6
 
 # Install
 
-> Install: ```cordova plugin add com.lampa.startapp```
 > 
-> Install: ```cordova plugin add https://github.com/lampaa/com.lampa.startapp.git```
+> Install: ```cordova plugin add https://github.com/THS-FE/com.lampa.startapp```
 > 
 > Delete:  ```cordova plugin rm com.lampa.startapp```
 > 
